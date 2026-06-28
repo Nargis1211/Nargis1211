@@ -2,7 +2,7 @@
 Software Engineering Student <br>
 Backend & Web Developer
 # 💫 About Me:
-I am a dedicated Software Engineering student with a versatile technical background spanning systems programming and modern web development. With a strong foundation in C++, and C#, I bring a rigorous engineering approach to every project. My expertise lies in building professional, responsive web applications using HTML5, CSS3, JavaScript, and Bootstrap.<br><br>Beyond the code, I leverage my skills in graphic design to ensure that every application I build is not only functionally robust but also visually compelling and user-centric. I am passionate about creating seamless digital experiences from the backend logic to the frontend interface.
+I am a dedicated Software Engineering student with a versatile technical background spanning systems programming and modern web development. With a strong foundation in C++,C# and java. I bring a rigorous engineering approach to every project. My expertise lies in building professional, responsive web applications using HTML5, CSS3, JavaScript, and Bootstrap.<br><br>Beyond the code, I leverage my skills in graphic design to ensure that every application I build is not only functionally robust but also visually compelling and user-centric. I am passionate about creating seamless digital experiences from the backend logic to the frontend interface.
 
 
 ## 🌐 Socials:
